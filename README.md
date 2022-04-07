@@ -1,1 +1,2 @@
-this repo introduces C programing language
+
+low level programming C
